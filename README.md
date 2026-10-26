@@ -4,7 +4,7 @@ I build small Python tools, mostly command-line utilities and scripts that autom
 
 ## Projects
 
-- [fixmysite](https://github.com/HaruFromSpace/fixmysite): checks a web page for accessibility problems and explains the fixes in plain language
+- [fixmysite](https://github.com/HaruFromSpace/fixmysite): checks a web page for accessibility problems and explains the fixes in plain language ([try it live](https://fixmysite.onrender.com))
 - [orbit](https://github.com/HaruFromSpace/orbit): watch videos in sync with friends, with chat, voice calls, screen sharing and a shared music queue
 - [sysflex](https://github.com/HaruFromSpace/sysflex): your system specs next to ASCII art, like a tiny neofetch
 - [janitor](https://github.com/HaruFromSpace/janitor): sorts a messy Downloads folder in one command
