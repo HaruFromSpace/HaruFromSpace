@@ -1,6 +1,6 @@
 # Hi, I'm Yazan, aka Haru
 
-I build small Python tools, mostly command-line utilities and scripts that automate boring tasks. This is where I keep the projects I make while learning.
+I build small web apps and tools that fix a real problem, then keep improving them. This is where I keep the projects I make while learning.
 
 ## Projects
 
