@@ -20,4 +20,4 @@ I build small Python tools, mostly command-line utilities and scripts that autom
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/yazan-abu-ruz)
+[Portfolio](https://harufromspace.github.io) · [LinkedIn](https://www.linkedin.com/in/yazan-abu-ruz)
